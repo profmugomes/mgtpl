@@ -1,7 +1,7 @@
-// Copyright (C) 2026 Murilo Gomes Julio
+// Copyright (C) 2026 Murilo Gomes <profmugomes.com.br>
 // SPDX-License-Identifier: MIT
-//
-// Site: https://mugomes.github.io
+
+// Site: https://www.profmugomes.com.br
 
 package mgtpl
 
