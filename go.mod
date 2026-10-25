@@ -1,3 +1,3 @@
-module github.com/mugomes/mgtpl
+module github.com/profmugomes/mgtpl/v2
 
-go 1.25.5
+go 1.27.2

@@ -1,9 +1,6 @@
 # MGTPL
 
-<!-- Badge opcional para deixar claro visualmente -->
-![Status](https://img.shields.io/badge/status-arquivado--archived-red.svg)
-
-> **Aviso importante:** Esta biblioteca foi **oficialmente arquivada** e não receberá mais atualizações, correções de bugs ou suporte para novas versões.
+[![License](https://img.shields.io/badge/license-MIT-5351FB)](LICENSE)
 
 MGTPL é uma biblioteca leve e prática para gerar HTML dinamicamente em Go. Ela permite criar tags HTML, aninhar elementos, trabalhar com tags que não fecham, atributos sem valor e gerar páginas completas de forma programática.
 
@@ -25,7 +22,7 @@ MGTPL é uma biblioteca leve e prática para gerar HTML dinamicamente em Go. Ela
 Dentro do seu projeto Go:
 
 ```bash
-go get github.com/mugomes/mgtpl
+go get github.com/profmugomes/mgtpl/v2
 ```
 
 ---
@@ -157,18 +154,18 @@ log.Fatal(http.ListenAndServe(":8000", nil))
 
 ## 👤 Autor
 
-**Murilo Gomes Julio**
+**Murilo Gomes**
 
-🔗 [https://mugomes.github.io](https://mugomes.github.io)
+🔗 [https://www.profmugomes.com.br](https://www.profmugomes.com.br)
 
-📺 [https://youtube.com/@mugomesoficial](https://youtube.com/@mugomesoficial)
+📺 [https://youtube.com/@profmugomes](https://youtube.com/@profmugomes)
 
 ---
 
 ## License
 
-Copyright (c) 2026 Murilo Gomes Julio
+Copyright (c) 2026 Murilo Gomes
 
-Licensed under the [MIT](https://github.com/mugomes/mgtpl/blob/main/LICENSE) license.
+Licensed under the [MIT](https://github.com/profmugomes/mgtpl/blob/main/LICENSE) license.
 
 All contributions to the MGTPL are subject to this license.
